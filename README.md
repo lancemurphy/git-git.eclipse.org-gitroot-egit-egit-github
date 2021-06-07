@@ -1,0 +1,1 @@
+# git-git.eclipse.org-gitroot-egit-egit-github
